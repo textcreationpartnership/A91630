@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A remonstrance of the shee-citizens of London. And of many thousands of other the free-borne women of England. Humbly shewing their desires for the attaining of a free trade, for the Kings speedie coming to London, for the maning of their works, and for the redresse of their many other grievances, and burdens they now lie under.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91630</idno><idno type="EEBO-CITATION">99862332</idno>
+  <idno type="VID">114489</idno>
+  <idno type="EEBO-PROQUEST">2240958676</idno>
+  
+            <idno type="STC">Wing R1014</idno>
+            <idno type="STC">Thomason E404_2</idno>
+            <idno type="STC">ESTC R201841</idno>
+            <idno type="PROQUEST">99862332</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862332e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91630)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114489)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E404[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A remonstrance of the shee-citizens of London. And of many thousands of other the free-borne women of England. Humbly shewing their desires for the attaining of a free trade, for the Kings speedie coming to London, for the maning of their works, and for the redresse of their many other grievances, and burdens they now lie under.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>A satire.</note>
+                  <note>Annotation on Thomason copy: "Aug: 21".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Women --  England --  London --  Social conditions --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114489:1"/>
+            <p>A REMONSTRANCE OF THE Shee-Citizens of London. AND Of many thousands of other the free-borne Women of England.</p>
+            <p>Humbly shewing their desires for the attain<g ref="char:EOLhyphen"/>ing of a free trade, for the Kings speedie coming to LONDON, for the maning of their works, and for the redresse of their many other grievances, and burdens they now lie under.</p>
+            <p>Printed in the yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114489:2"/>
+            <pb n="1" facs="tcp:114489:2"/>
+            <head>A REMONSTRANCE OF THE SHE-CITIZENS of LONDON, And of many thousands of other free<g ref="char:EOLhyphen"/>borne women of England.</head>
+            <p>WE the assistants and co-equalls of the famous Citizens of London, the better parts of the Trained Bands, and Common Councell men, having of a long time beheld the many infranchisements, Do<g ref="char:EOLhyphen"/>natines and immunities attained by our fellow-feelers, the City of London and the parts adjacent, and for our selves in particular, have purchased nor atchieved any thing worthy to be recorded and talked of by po<g ref="char:EOLhyphen"/>sterity as an act of speciall grace and concernment, though we confesse that under our husbands wee have been often comforted as with those sweet watry distil<g ref="char:EOLhyphen"/>lations which hath as from a limberk issued from them, yet we must give notice that your <hi>blandum mysterium</hi> a<g ref="char:EOLhyphen"/>cted by one man alone, cannot content each of us, being inspired with heroik thoughts, such as famous <hi>Messali<g ref="char:EOLhyphen"/>na</hi> and <hi>Cleopatra</hi> owned, we meane that we should bee tied by the leg with the feeble cords of one only mans
+<pb n="2" facs="tcp:114489:3"/>hamstrings, who through continuall exercise are be<g ref="char:EOLhyphen"/>come most faultringly feeble, for through the hard<g ref="char:EOLhyphen"/>nesse of these times denying them their former height of nourishment, they grow worse and worse daily in their occupation, and even by nature are debarred to spend so freely on us as in times past, for the removall of which severall inconveniencies, we shall humbly re<g ref="char:EOLhyphen"/>monstrate.</p>
+            <p>That whereas this sterrill maladie is occasioned by a strict subjugation of us the free-borne women of England, by a law strictly forbidding any of us to scan the tremeter of any but to each of them to whom we are bound and obliged, we conceive that this prohi<g ref="char:EOLhyphen"/>bition tendeth to the detriment not onely of us but of the whole Kingdom, &amp; that wanting that free commerce which nature licenseth, the Kingdome cannot choose but be disappointed of many generous soules, which if otherwise it is likely to be enriched with, in case of a free propagation, and which doth pierce us through with an earnest and longing contrition; this Island is now thinly inhabited, by reason of the late warres, wherein so many well-tried and able proficients have been untimely massacred, so that not onely themselves are perished for the present, but wee are also utter<g ref="char:EOLhyphen"/>ly deprived of the hopes wee were in of their af<g ref="char:EOLhyphen"/>terable performances for the good of the Kingdome, which consisteth in nothing more then in being fully replenished with people; we therefore with joynt consent, having taken into our consideration, the great decay of Males, that is likely inevitably to hap<g ref="char:EOLhyphen"/>pen, iftimely prevention, be not thought on, have thought fit to remonstrate that for the future, we shall
+<pb n="3" facs="tcp:114489:3"/>not beare such seared soules about us, as one woman, to live by the daily and nightly sweat of onely one mans browes when he perhaps though doing his ut<g ref="char:EOLhyphen"/>most, is not able to satisfie nature, but shall for our owne contentments, the ease of men and for the speedie peopling of the Kingdome, shall every one of us desire the assistance of so many (of whose abillitie we are sufficiently assured) as may produce <hi>numerosa proles,</hi> a vast Generation, not only to defend us at home, but also to prevent invasions from afarre, and we desire also (since to us by consequence) ac<g ref="char:EOLhyphen"/>cording as that stiffe stander for the subjects Liberties Col. <hi>Lilburn</hi> hath noted, belongeth every immunitie of <hi>Magna Charta,</hi> that in case of our husbands defaults, or debillities, we may our selves trade a broad in the Country, and utter our warres to our best advantage for it is not, as in the youth of the world when <hi>Lot</hi> was so free of his flesh, that he begot <hi>Moab,</hi> and <hi>Ammon,</hi> in his sleep nature, is now growne old, and stoopeth under the weight of time, we must have Eringoes, and Lobsters, to beget that, which in the worlds infancie, a carrot or a crab-fish equalled every thing decaies, and there is a generall declining in all things, there is an alteration, and defect in the condition (of bodies) over the whole frame, and sisteme of nature, the clouds doe forbare to raine downe their geniall showers, neither doe the flowers blush, with such perfumed fires as in the first morning of the world, the fire, which heretofore, was the mother of May creatures, as the <hi>Salamander</hi> the <hi>Pirausta</hi> and others, is now growne quite fruitlesse and bar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en, the ayre, doth not bestow such a vitall, and broodall incubation upon the earth,
+<pb n="4" facs="tcp:114489:4"/>and if this decay be in the greater Microcosme of na<g ref="char:EOLhyphen"/>ture, it must needs be in the lesse Microcosme of man, and therefore we who are of a substance hot and drie, and every whit as vigorous, as in the first nonage of the world ought not to be debarred of that right, to which we were created, but that the disabillities of one man should be supplied, with the abillities of another, which cannot be attained unlesse we shift our condi<g ref="char:EOLhyphen"/>tion, and be licensed a free trade.</p>
+            <p>Which that we may the sooner attain, we conceive no way conducing more to our desire, then that his Majestie speedily come to London, there to reside with honuor and safetie; for let the world know, to our unspeakeable grief, we have these many yeares missed the societie of his retainers, those imbroidered Courtiers, who heighten their longings at more charge, then if each of them constantly kept at rack and manger foure Flanders mares, and the heavenly dew that they were wont daily to water us with, and to our infinit joy, jog us, when we were coacht jog<g ref="char:EOLhyphen"/>ging to mile-end, to Islington, and Braineford, stuffing our bellies with cakes, and creame; and while our hus<g ref="char:EOLhyphen"/>bands good men, were either handselling their wares, or canselling their bonds, not dreaming that we also, were bartering their commodities for our best advan<g ref="char:EOLhyphen"/>tage: we therefore desire, that his Majestie may with all speed repaire to London, as the primary way for us to attaine our wishes, and till then, like the thirstie earth chapt for lack of rain, wee wait for—</p>
+            <p>But least preturbances should arise &amp; we sleep too su<g ref="char:EOLhyphen"/>pinely and though the royall partie be subjugated, we be any way damnified, by a wounded foe, we shall not
+<pb n="5" facs="tcp:114489:4"/>carelesly levell and let our works be entred by those, of whose trust and fidelitie we have not ample experi<g ref="char:EOLhyphen"/>ence, for some may give us an alarum, and yet want ammunition to maintain the fight; may charge us once, and yet afterward prove so lumpish, that after<g ref="char:EOLhyphen"/>ward they must be forced, and dandled to the incoun<g ref="char:EOLhyphen"/>ter; and whom we may be constrained to provoke to the skirmish, defying them with hot trenchers and warme napkins, applied to our bodies; we therefore doe desire that such should man our works, and sleep in our quarters, who shall bee sufficient, not only to please, but defend us from the incursions, of any craf<g ref="char:EOLhyphen"/>tie and disabled enemie; and should it so happen, (as who knowes the issue of things) that we should be surprized, our hopes and assurance is this, that though their onset be never so hot and fierie, yet we shall occasion their retreat, to be coole and tame: yea were they as strong as <hi>Sampson</hi> or <hi>Milo,</hi> we shall soone quaile their Courage, if not at the first, yee the second incounter; but this, if they should gaine our works; but we assure our enemies, which may serve as a terror to disswade them from daring, to give an assault; that if we shall not find them well weaponed, (for we hate Souldiers that are not for the punctillo) but either dulled with often service, or their weapons bro<g ref="char:EOLhyphen"/>ken near the handles, through their former fool-hardi<g ref="char:EOLhyphen"/>nesse and desperate valour, in daring to scale, though incountered with S. <hi>Anthonies Fire,</hi> that we shall give to such no quarter, but shall reserve them as Pa<g ref="char:EOLhyphen"/>geants for mirth, at our pleasures to transluce.</p>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:114489:5"/>
+            <head>Postscript.</head>
+            <p>
+               <hi>NOw if to these our desires our hus<g ref="char:EOLhyphen"/>bands prove refractorie and opposite, we entreat them to consider that wee nei<g ref="char:EOLhyphen"/>ther for prayers or threats will any longer be debarred of our just rights, and that they would neither remember that</hi> Lu<g ref="char:EOLhyphen"/>cullus Caesar, Pompey, Anthony, Ca<g ref="char:EOLhyphen"/>to, <hi>and divers other gallant men, were <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> and knew it, though they would not make a stirre about it, and that there was in all that time but one gullish coxcombe</hi> Lepi<g ref="char:EOLhyphen"/>dus <hi>that died with anguish.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
